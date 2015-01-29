@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 2ade7346fe7253344b160c0f97bff7f1
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tr_mk_car_red
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 393
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_car_green
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 335
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_car_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 452
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_car_pure
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 452
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_car_blue
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 452
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_car_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 393
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_car_white
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 335
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_car_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 393
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_car_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 335
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Level_Number_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 431
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Level_Number_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 431
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Level_Number_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 431
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Level_Number_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 431
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Level_Number_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 431
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Level_Number_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 431
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Level_Number_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 431
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Level_Number_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 431
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Level_Number_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 431
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Level_Number_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 431
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Cash_Number_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Cash_Number_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Cash_Number_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Cash_Number_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Cash_Number_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Cash_Number_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Cash_Number_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Cash_Number_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Cash_Number_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_Cash_Number_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_SMoney_Number_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_SMoney_Number_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_SMoney_Number_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_SMoney_Number_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_SMoney_Number_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_SMoney_Number_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_SMoney_Number_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_SMoney_Number_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_SMoney_Number_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tr_mk_SMoney_Number_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 415
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
